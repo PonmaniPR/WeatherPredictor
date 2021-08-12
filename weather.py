@@ -1,4 +1,4 @@
-import requests
+import requests1
 from bs4 import BeautifulSoup
 from tkinter import Label
 from tkinter import Tk
